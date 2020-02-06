@@ -1,0 +1,405 @@
+{:exit 0,
+ :out  "\rEncoding: task 1 of 1, 0.41 %\rEncoding: task 1 of 1, 2.29 %\rEncoding: task 1 of 1, 2.80 %\rEncoding: task 1 of 1, 3.28 %\rEncoding: task 1 of 1, 3.65 %\rEncoding: task 1 of 1, 3.80 %\rEncoding: task 1 of 1, 4.02 %\rEncoding: task 1 of 1, 4.05 %\rEncoding: task 1 of 1, 4.24 %\rEncoding: task 1 of 1, 4.46 %\rEncoding: task 1 of 1, 4.61 %\rEncoding: task 1 of 1, 4.94 %\rEncoding: task 1 of 1, 5.01 %\rEncoding: task 1 of 1, 5.31 %\rEncoding: task 1 of 1, 5.57 %\rEncoding: task 1 of 1, 5.64 %\rEncoding: task 1 of 1, 5.86 %\rEncoding: task 1 of 1, 6.08 %\rEncoding: task 1 of 1, 6.19 %\rEncoding: task 1 of 1, 6.30 %\rEncoding: task 1 of 1, 6.52 %\rEncoding: task 1 of 1, 6.78 % (48.44 fps, avg 48.44 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 6.97 % (25.10 fps, avg 42.64 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 7.19 % (25.10 fps, avg 42.64 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 7.52 % (25.10 fps, avg 42.64 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 7.52 % (25.10 fps, avg 42.64 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 7.78 % (25.10 fps, avg 42.64 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 8.11 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 8.40 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 8.48 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 8.63 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 8.63 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 8.81 % (26.99 fps, avg 39.28 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 9.10 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 9.55 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 9.80 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 9.92 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.14 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.14 % (24.59 fps, avg 36.28 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.32 % (26.86 fps, avg 35.72 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.43 % (26.86 fps, avg 35.72 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.47 % (26.86 fps, avg 35.72 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.62 % (26.86 fps, avg 35.72 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.76 % (26.86 fps, avg 35.72 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 10.84 % (23.06 fps, avg 32.88 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 11.06 % (23.06 fps, avg 32.88 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 11.06 % (23.06 fps, avg 32.88 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 11.28 % (23.06 fps, avg 32.88 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 11.43 % (23.06 fps, avg 32.88 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 11.50 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 11.68 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 11.68 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 11.94 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 12.02 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 12.13 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 12.13 % (21.36 fps, avg 31.29 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 12.35 % (15.52 fps, avg 29.45 fps, ETA 00h01m20s)\rEncoding: task 1 of 1, 12.72 % (15.52 fps, avg 29.45 fps, ETA 00h01m20s)\rEncoding: task 1 of 1, 12.75 % (15.52 fps, avg 29.45 fps, ETA 00h01m20s)\rEncoding: task 1 of 1, 12.79 % (15.52 fps, avg 29.45 fps, ETA 00h01m20s)\rEncoding: task 1 of 1, 12.86 % (15.52 fps, avg 29.45 fps, ETA 00h01m20s)\rEncoding: task 1 of 1, 13.05 % (17.15 fps, avg 28.61 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 13.23 % (17.15 fps, avg 28.61 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 13.31 % (17.15 fps, avg 28.61 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 13.42 % (17.15 fps, avg 28.61 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 13.64 % (17.15 fps, avg 28.61 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 13.97 % (18.19 fps, avg 28.03 fps, ETA 00h01m23s)\rEncoding: task 1 of 1, 13.97 % (18.19 fps, avg 28.03 fps, ETA 00h01m23s)\rEncoding: task 1 of 1, 13.97 % (18.19 fps, avg 28.03 fps, ETA 00h01m23s)\rEncoding: task 1 of 1, 14.23 % (18.19 fps, avg 28.03 fps, ETA 00h01m23s)\rEncoding: task 1 of 1, 14.23 % (18.19 fps, avg 28.03 fps, ETA 00h01m23s)\rEncoding: task 1 of 1, 14.49 % (18.64 fps, avg 27.13 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 14.49 % (18.64 fps, avg 27.13 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 14.56 % (18.64 fps, avg 27.13 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 14.74 % (18.64 fps, avg 27.13 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 14.85 % (18.64 fps, avg 27.13 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 14.93 % (17.94 fps, avg 26.47 fps, ETA 00h01m27s)\rEncoding: task 1 of 1, 15.15 % (17.94 fps, avg 26.47 fps, ETA 00h01m27s)\rEncoding: task 1 of 1, 15.33 % (17.94 fps, avg 26.47 fps, ETA 00h01m27s)\rEncoding: task 1 of 1, 15.33 % (17.94 fps, avg 26.47 fps, ETA 00h01m27s)\rEncoding: task 1 of 1, 15.44 % (17.94 fps, avg 26.47 fps, ETA 00h01m27s)\rEncoding: task 1 of 1, 15.67 % (15.97 fps, avg 25.76 fps, ETA 00h01m29s)\rEncoding: task 1 of 1, 15.67 % (15.97 fps, avg 25.76 fps, ETA 00h01m29s)\rEncoding: task 1 of 1, 15.92 % (15.97 fps, avg 25.76 fps, ETA 00h01m29s)\rEncoding: task 1 of 1, 15.92 % (15.97 fps, avg 25.76 fps, ETA 00h01m29s)\rEncoding: task 1 of 1, 16.00 % (15.97 fps, avg 25.76 fps, ETA 00h01m29s)\rEncoding: task 1 of 1, 16.14 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.26 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.33 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.59 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.59 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.77 % (15.53 fps, avg 25.03 fps, ETA 00h01m30s)\rEncoding: task 1 of 1, 16.88 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 16.88 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 17.03 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 17.29 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 17.29 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 17.36 % (15.31 fps, avg 24.48 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 17.47 % (15.24 fps, avg 23.94 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 17.62 % (15.24 fps, avg 23.94 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 17.80 % (15.24 fps, avg 23.94 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 17.88 % (15.24 fps, avg 23.94 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 17.99 % (15.24 fps, avg 23.94 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 18.13 % (15.94 fps, avg 23.57 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 18.21 % (15.94 fps, avg 23.57 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 18.32 % (15.94 fps, avg 23.57 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 18.36 % (15.94 fps, avg 23.57 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 18.47 % (15.94 fps, avg 23.57 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 18.69 % (14.50 fps, avg 23.03 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 18.80 % (14.50 fps, avg 23.03 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 18.91 % (14.50 fps, avg 23.03 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 18.98 % (14.50 fps, avg 23.03 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.09 % (14.50 fps, avg 23.03 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.57 % (15.13 fps, avg 22.74 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.57 % (15.13 fps, avg 22.74 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.57 % (15.13 fps, avg 22.74 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.65 % (15.13 fps, avg 22.74 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 19.94 % (15.13 fps, avg 22.74 fps, ETA 00h01m36s)\rEncoding: task 1 of 1, 20.20 % (18.07 fps, avg 22.85 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 20.42 % (18.07 fps, avg 22.85 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 20.68 % (18.07 fps, avg 22.85 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 20.86 % (18.07 fps, avg 22.85 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 20.86 % (18.07 fps, avg 22.85 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 20.97 % (20.93 fps, avg 22.77 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 21.23 % (20.93 fps, avg 22.77 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 21.45 % (20.93 fps, avg 22.77 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 21.45 % (20.93 fps, avg 22.77 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 21.60 % (20.93 fps, avg 22.77 fps, ETA 00h01m34s)\rEncoding: task 1 of 1, 21.97 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 21.97 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 21.97 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 22.23 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 22.56 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 22.59 % (21.93 fps, avg 22.64 fps, ETA 00h01m33s)\rEncoding: task 1 of 1, 22.85 % (22.04 fps, avg 22.76 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 23.15 % (22.04 fps, avg 22.76 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 23.22 % (22.04 fps, avg 22.76 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 23.30 % (22.04 fps, avg 22.76 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 23.41 % (22.04 fps, avg 22.76 fps, ETA 00h01m32s)\rEncoding: task 1 of 1, 23.66 % (22.36 fps, avg 22.72 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 23.81 % (22.36 fps, avg 22.72 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.00 % (22.36 fps, avg 22.72 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.07 % (22.36 fps, avg 22.72 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.14 % (22.36 fps, avg 22.72 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.40 % (21.96 fps, avg 22.57 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.70 % (21.96 fps, avg 22.57 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 24.92 % (21.96 fps, avg 22.57 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 25.10 % (21.96 fps, avg 22.57 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 25.25 % (21.96 fps, avg 22.57 fps, ETA 00h01m31s)\rEncoding: task 1 of 1, 25.51 % (23.28 fps, avg 22.81 fps, ETA 00h01m28s)\rEncoding: task 1 of 1, 25.76 % (23.28 fps, avg 22.81 fps, ETA 00h01m28s)\rEncoding: task 1 of 1, 26.02 % (23.28 fps, avg 22.81 fps, ETA 00h01m28s)\rEncoding: task 1 of 1, 26.21 % (23.28 fps, avg 22.81 fps, ETA 00h01m28s)\rEncoding: task 1 of 1, 26.35 % (23.28 fps, avg 22.81 fps, ETA 00h01m28s)\rEncoding: task 1 of 1, 26.47 % (25.89 fps, avg 23.04 fps, ETA 00h01m26s)\rEncoding: task 1 of 1, 26.69 % (25.89 fps, avg 23.04 fps, ETA 00h01m26s)\rEncoding: task 1 of 1, 27.24 % (25.89 fps, avg 23.04 fps, ETA 00h01m26s)\rEncoding: task 1 of 1, 27.31 % (25.89 fps, avg 23.04 fps, ETA 00h01m26s)\rEncoding: task 1 of 1, 27.31 % (25.89 fps, avg 23.04 fps, ETA 00h01m26s)\rEncoding: task 1 of 1, 27.61 % (27.74 fps, avg 23.07 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 27.83 % (27.74 fps, avg 23.07 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 28.16 % (27.74 fps, avg 23.07 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 28.38 % (27.74 fps, avg 23.07 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 28.49 % (27.74 fps, avg 23.07 fps, ETA 00h01m25s)\rEncoding: task 1 of 1, 28.75 % (29.14 fps, avg 23.41 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 28.97 % (29.14 fps, avg 23.41 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 29.16 % (29.14 fps, avg 23.41 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 29.30 % (29.14 fps, avg 23.41 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 29.41 % (29.14 fps, avg 23.41 fps, ETA 00h01m22s)\rEncoding: task 1 of 1, 29.64 % (27.24 fps, avg 23.42 fps, ETA 00h01m21s)\rEncoding: task 1 of 1, 29.89 % (27.24 fps, avg 23.42 fps, ETA 00h01m21s)\rEncoding: task 1 of 1, 30.00 % (27.24 fps, avg 23.42 fps, ETA 00h01m21s)\rEncoding: task 1 of 1, 30.26 % (27.24 fps, avg 23.42 fps, ETA 00h01m21s)\rEncoding: task 1 of 1, 30.70 % (27.24 fps, avg 23.42 fps, ETA 00h01m21s)\rEncoding: task 1 of 1, 30.78 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 31.00 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 31.22 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 31.44 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 31.63 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 31.63 % (29.66 fps, avg 23.65 fps, ETA 00h01m19s)\rEncoding: task 1 of 1, 32.07 % (26.46 fps, avg 23.67 fps, ETA 00h01m18s)\rEncoding: task 1 of 1, 32.22 % (26.46 fps, avg 23.67 fps, ETA 00h01m18s)\rEncoding: task 1 of 1, 32.33 % (26.46 fps, avg 23.67 fps, ETA 00h01m18s)\rEncoding: task 1 of 1, 32.69 % (26.46 fps, avg 23.67 fps, ETA 00h01m18s)\rEncoding: task 1 of 1, 32.73 % (26.46 fps, avg 23.67 fps, ETA 00h01m18s)\rEncoding: task 1 of 1, 32.99 % (28.41 fps, avg 23.83 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 33.21 % (28.41 fps, avg 23.83 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 33.21 % (28.41 fps, avg 23.83 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 33.47 % (28.41 fps, avg 23.83 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 33.80 % (28.41 fps, avg 23.83 fps, ETA 00h01m16s)\rEncoding: task 1 of 1, 33.98 % (27.16 fps, avg 23.93 fps, ETA 00h01m15s)\rEncoding: task 1 of 1, 34.06 % (27.16 fps, avg 23.93 fps, ETA 00h01m15s)\rEncoding: task 1 of 1, 34.24 % (27.16 fps, avg 23.93 fps, ETA 00h01m15s)\rEncoding: task 1 of 1, 34.61 % (27.16 fps, avg 23.93 fps, ETA 00h01m15s)\rEncoding: task 1 of 1, 34.61 % (27.16 fps, avg 23.93 fps, ETA 00h01m15s)\rEncoding: task 1 of 1, 35.02 % (26.15 fps, avg 23.86 fps, ETA 00h01m14s)\rEncoding: task 1 of 1, 35.02 % (26.15 fps, avg 23.86 fps, ETA 00h01m14s)\rEncoding: task 1 of 1, 35.20 % (26.15 fps, avg 23.86 fps, ETA 00h01m14s)\rEncoding: task 1 of 1, 35.42 % (26.15 fps, avg 23.86 fps, ETA 00h01m14s)\rEncoding: task 1 of 1, 35.53 % (26.15 fps, avg 23.86 fps, ETA 00h01m14s)\rEncoding: task 1 of 1, 35.79 % (24.32 fps, avg 23.87 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 36.16 % (24.32 fps, avg 23.87 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 36.31 % (24.32 fps, avg 23.87 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 36.31 % (24.32 fps, avg 23.87 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 36.60 % (24.32 fps, avg 23.87 fps, ETA 00h01m13s)\rEncoding: task 1 of 1, 36.90 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 37.15 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 37.41 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 37.41 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 37.82 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 37.82 % (24.62 fps, avg 23.98 fps, ETA 00h01m11s)\rEncoding: task 1 of 1, 38.15 % (26.48 fps, avg 24.06 fps, ETA 00h01m10s)\rEncoding: task 1 of 1, 38.26 % (26.48 fps, avg 24.06 fps, ETA 00h01m10s)\rEncoding: task 1 of 1, 38.37 % (26.48 fps, avg 24.06 fps, ETA 00h01m10s)\rEncoding: task 1 of 1, 38.67 % (26.48 fps, avg 24.06 fps, ETA 00h01m10s)\rEncoding: task 1 of 1, 38.89 % (26.48 fps, avg 24.06 fps, ETA 00h01m10s)\rEncoding: task 1 of 1, 39.18 % (28.19 fps, avg 24.19 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 39.44 % (28.19 fps, avg 24.19 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 39.44 % (28.19 fps, avg 24.19 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 39.66 % (28.19 fps, avg 24.19 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 39.85 % (28.19 fps, avg 24.19 fps, ETA 00h01m08s)\rEncoding: task 1 of 1, 39.96 % (26.94 fps, avg 24.20 fps, ETA 00h01m07s)\rEncoding: task 1 of 1, 40.25 % (26.94 fps, avg 24.20 fps, ETA 00h01m07s)\rEncoding: task 1 of 1, 40.55 % (26.94 fps, avg 24.20 fps, ETA 00h01m07s)\rEncoding: task 1 of 1, 40.80 % (26.94 fps, avg 24.20 fps, ETA 00h01m07s)\rEncoding: task 1 of 1, 40.88 % (26.94 fps, avg 24.20 fps, ETA 00h01m07s)\rEncoding: task 1 of 1, 41.14 % (26.88 fps, avg 24.25 fps, ETA 00h01m06s)\rEncoding: task 1 of 1, 41.32 % (26.88 fps, avg 24.25 fps, ETA 00h01m06s)\rEncoding: task 1 of 1, 41.54 % (26.88 fps, avg 24.25 fps, ETA 00h01m06s)\rEncoding: task 1 of 1, 41.65 % (26.88 fps, avg 24.25 fps, ETA 00h01m06s)\rEncoding: task 1 of 1, 41.95 % (26.88 fps, avg 24.25 fps, ETA 00h01m06s)\rEncoding: task 1 of 1, 42.17 % (26.18 fps, avg 24.33 fps, ETA 00h01m04s)\rEncoding: task 1 of 1, 42.46 % (26.18 fps, avg 24.33 fps, ETA 00h01m04s)\rEncoding: task 1 of 1, 42.65 % (26.18 fps, avg 24.33 fps, ETA 00h01m04s)\rEncoding: task 1 of 1, 42.76 % (26.18 fps, avg 24.33 fps, ETA 00h01m04s)\rEncoding: task 1 of 1, 42.83 % (26.18 fps, avg 24.33 fps, ETA 00h01m04s)\rEncoding: task 1 of 1, 42.90 % (25.88 fps, avg 24.31 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.13 % (25.88 fps, avg 24.31 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.35 % (25.88 fps, avg 24.31 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.49 % (25.88 fps, avg 24.31 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.60 % (25.88 fps, avg 24.31 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.68 % (23.98 fps, avg 24.24 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.90 % (23.98 fps, avg 24.24 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 43.97 % (23.98 fps, avg 24.24 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 44.19 % (23.98 fps, avg 24.24 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 44.42 % (23.98 fps, avg 24.24 fps, ETA 00h01m03s)\rEncoding: task 1 of 1, 44.53 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 44.60 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 44.67 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 44.82 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 45.19 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 45.30 % (22.41 fps, avg 24.21 fps, ETA 00h01m02s)\rEncoding: task 1 of 1, 45.37 % (21.90 fps, avg 24.16 fps, ETA 00h01m01s)\rEncoding: task 1 of 1, 45.71 % (21.90 fps, avg 24.16 fps, ETA 00h01m01s)\rEncoding: task 1 of 1, 45.89 % (21.90 fps, avg 24.16 fps, ETA 00h01m01s)\rEncoding: task 1 of 1, 46.15 % (21.90 fps, avg 24.16 fps, ETA 00h01m01s)\rEncoding: task 1 of 1, 46.33 % (21.90 fps, avg 24.16 fps, ETA 00h01m01s)\rEncoding: task 1 of 1, 46.55 % (23.88 fps, avg 24.22 fps, ETA 00h01m00s)\rEncoding: task 1 of 1, 46.74 % (23.88 fps, avg 24.22 fps, ETA 00h01m00s)\rEncoding: task 1 of 1, 47.00 % (23.88 fps, avg 24.22 fps, ETA 00h01m00s)\rEncoding: task 1 of 1, 47.07 % (23.88 fps, avg 24.22 fps, ETA 00h01m00s)\rEncoding: task 1 of 1, 47.22 % (23.88 fps, avg 24.22 fps, ETA 00h01m00s)\rEncoding: task 1 of 1, 47.48 % (24.22 fps, avg 24.21 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 47.70 % (24.22 fps, avg 24.21 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 47.84 % (24.22 fps, avg 24.21 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 48.03 % (24.22 fps, avg 24.21 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 48.25 % (24.22 fps, avg 24.21 fps, ETA 00h00m59s)\rEncoding: task 1 of 1, 48.51 % (26.02 fps, avg 24.27 fps, ETA 00h00m57s)\rEncoding: task 1 of 1, 48.58 % (26.02 fps, avg 24.27 fps, ETA 00h00m57s)\rEncoding: task 1 of 1, 48.77 % (26.02 fps, avg 24.27 fps, ETA 00h00m57s)\rEncoding: task 1 of 1, 49.17 % (26.02 fps, avg 24.27 fps, ETA 00h00m57s)\rEncoding: task 1 of 1, 49.17 % (26.02 fps, avg 24.27 fps, ETA 00h00m57s)\rEncoding: task 1 of 1, 49.61 % (24.94 fps, avg 24.26 fps, ETA 00h00m56s)\rEncoding: task 1 of 1, 49.65 % (24.94 fps, avg 24.26 fps, ETA 00h00m56s)\rEncoding: task 1 of 1, 49.76 % (24.94 fps, avg 24.26 fps, ETA 00h00m56s)\rEncoding: task 1 of 1, 50.02 % (24.94 fps, avg 24.26 fps, ETA 00h00m56s)\rEncoding: task 1 of 1, 50.20 % (24.94 fps, avg 24.26 fps, ETA 00h00m56s)\rEncoding: task 1 of 1, 50.31 % (25.74 fps, avg 24.30 fps, ETA 00h00m55s)\rEncoding: task 1 of 1, 50.57 % (25.74 fps, avg 24.30 fps, ETA 00h00m55s)\rEncoding: task 1 of 1, 50.72 % (25.74 fps, avg 24.30 fps, ETA 00h00m55s)\rEncoding: task 1 of 1, 50.98 % (25.74 fps, avg 24.30 fps, ETA 00h00m55s)\rEncoding: task 1 of 1, 51.12 % (25.74 fps, avg 24.30 fps, ETA 00h00m55s)\rEncoding: task 1 of 1, 51.46 % (26.43 fps, avg 24.39 fps, ETA 00h00m54s)\rEncoding: task 1 of 1, 51.68 % (26.43 fps, avg 24.39 fps, ETA 00h00m54s)\rEncoding: task 1 of 1, 51.79 % (26.43 fps, avg 24.39 fps, ETA 00h00m54s)\rEncoding: task 1 of 1, 52.05 % (26.43 fps, avg 24.39 fps, ETA 00h00m54s)\rEncoding: task 1 of 1, 52.27 % (26.43 fps, avg 24.39 fps, ETA 00h00m54s)\rEncoding: task 1 of 1, 52.52 % (28.21 fps, avg 24.47 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 52.78 % (28.21 fps, avg 24.47 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 52.97 % (28.21 fps, avg 24.47 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 53.26 % (28.21 fps, avg 24.47 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 53.48 % (28.21 fps, avg 24.47 fps, ETA 00h00m52s)\rEncoding: task 1 of 1, 53.74 % (29.31 fps, avg 24.56 fps, ETA 00h00m51s)\rEncoding: task 1 of 1, 53.93 % (29.31 fps, avg 24.56 fps, ETA 00h00m51s)\rEncoding: task 1 of 1, 54.07 % (29.31 fps, avg 24.56 fps, ETA 00h00m51s)\rEncoding: task 1 of 1, 54.37 % (29.31 fps, avg 24.56 fps, ETA 00h00m51s)\rEncoding: task 1 of 1, 54.66 % (29.31 fps, avg 24.56 fps, ETA 00h00m51s)\rEncoding: task 1 of 1, 54.92 % (29.96 fps, avg 24.67 fps, ETA 00h00m49s)\rEncoding: task 1 of 1, 55.18 % (29.96 fps, avg 24.67 fps, ETA 00h00m49s)\rEncoding: task 1 of 1, 55.36 % (29.96 fps, avg 24.67 fps, ETA 00h00m49s)\rEncoding: task 1 of 1, 55.55 % (29.96 fps, avg 24.67 fps, ETA 00h00m49s)\rEncoding: task 1 of 1, 55.69 % (29.96 fps, avg 24.67 fps, ETA 00h00m49s)\rEncoding: task 1 of 1, 55.88 % (30.25 fps, avg 24.76 fps, ETA 00h00m48s)\rEncoding: task 1 of 1, 56.03 % (30.25 fps, avg 24.76 fps, ETA 00h00m48s)\rEncoding: task 1 of 1, 56.25 % (30.25 fps, avg 24.76 fps, ETA 00h00m48s)\rEncoding: task 1 of 1, 56.47 % (30.25 fps, avg 24.76 fps, ETA 00h00m48s)\rEncoding: task 1 of 1, 56.58 % (30.25 fps, avg 24.76 fps, ETA 00h00m48s)\rEncoding: task 1 of 1, 56.80 % (27.36 fps, avg 24.69 fps, ETA 00h00m47s)\rEncoding: task 1 of 1, 57.02 % (27.36 fps, avg 24.69 fps, ETA 00h00m47s)\rEncoding: task 1 of 1, 57.13 % (27.36 fps, avg 24.69 fps, ETA 00h00m47s)\rEncoding: task 1 of 1, 57.28 % (27.36 fps, avg 24.69 fps, ETA 00h00m47s)\rEncoding: task 1 of 1, 57.46 % (27.36 fps, avg 24.69 fps, ETA 00h00m47s)\rEncoding: task 1 of 1, 57.65 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 57.76 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 57.83 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 58.09 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 58.16 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 58.68 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 58.68 % (25.16 fps, avg 24.69 fps, ETA 00h00m46s)\rEncoding: task 1 of 1, 58.86 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 58.86 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 59.16 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 59.53 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 59.79 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 59.97 % (23.70 fps, avg 24.70 fps, ETA 00h00m45s)\rEncoding: task 1 of 1, 60.12 % (26.34 fps, avg 24.78 fps, ETA 00h00m43s)\rEncoding: task 1 of 1, 60.30 % (26.34 fps, avg 24.78 fps, ETA 00h00m43s)\rEncoding: task 1 of 1, 60.45 % (26.34 fps, avg 24.78 fps, ETA 00h00m43s)\rEncoding: task 1 of 1, 60.82 % (26.34 fps, avg 24.78 fps, ETA 00h00m43s)\rEncoding: task 1 of 1, 60.97 % (26.34 fps, avg 24.78 fps, ETA 00h00m43s)\rEncoding: task 1 of 1, 61.15 % (26.44 fps, avg 24.79 fps, ETA 00h00m42s)\rEncoding: task 1 of 1, 61.37 % (26.44 fps, avg 24.79 fps, ETA 00h00m42s)\rEncoding: task 1 of 1, 61.67 % (26.44 fps, avg 24.79 fps, ETA 00h00m42s)\rEncoding: task 1 of 1, 62.00 % (26.44 fps, avg 24.79 fps, ETA 00h00m42s)\rEncoding: task 1 of 1, 62.18 % (26.44 fps, avg 24.79 fps, ETA 00h00m42s)\rEncoding: task 1 of 1, 62.29 % (28.58 fps, avg 24.89 fps, ETA 00h00m41s)\rEncoding: task 1 of 1, 62.48 % (28.58 fps, avg 24.89 fps, ETA 00h00m41s)\rEncoding: task 1 of 1, 62.66 % (28.58 fps, avg 24.89 fps, ETA 00h00m41s)\rEncoding: task 1 of 1, 62.92 % (28.58 fps, avg 24.89 fps, ETA 00h00m41s)\rEncoding: task 1 of 1, 63.03 % (28.58 fps, avg 24.89 fps, ETA 00h00m41s)\rEncoding: task 1 of 1, 63.40 % (26.37 fps, avg 24.85 fps, ETA 00h00m40s)\rEncoding: task 1 of 1, 63.55 % (26.37 fps, avg 24.85 fps, ETA 00h00m40s)\rEncoding: task 1 of 1, 63.84 % (26.37 fps, avg 24.85 fps, ETA 00h00m40s)\rEncoding: task 1 of 1, 63.99 % (26.37 fps, avg 24.85 fps, ETA 00h00m40s)\rEncoding: task 1 of 1, 64.14 % (26.37 fps, avg 24.85 fps, ETA 00h00m40s)\rEncoding: task 1 of 1, 64.28 % (27.67 fps, avg 24.92 fps, ETA 00h00m39s)\rEncoding: task 1 of 1, 64.73 % (27.67 fps, avg 24.92 fps, ETA 00h00m39s)\rEncoding: task 1 of 1, 64.80 % (27.67 fps, avg 24.92 fps, ETA 00h00m39s)\rEncoding: task 1 of 1, 64.98 % (27.67 fps, avg 24.92 fps, ETA 00h00m39s)\rEncoding: task 1 of 1, 65.13 % (27.67 fps, avg 24.92 fps, ETA 00h00m39s)\rEncoding: task 1 of 1, 65.32 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 65.43 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 65.54 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 65.65 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 65.94 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 66.24 % (26.09 fps, avg 24.94 fps, ETA 00h00m37s)\rEncoding: task 1 of 1, 66.49 % (28.26 fps, avg 25.00 fps, ETA 00h00m36s)\rEncoding: task 1 of 1, 66.86 % (28.26 fps, avg 25.00 fps, ETA 00h00m36s)\rEncoding: task 1 of 1, 66.94 % (28.26 fps, avg 25.00 fps, ETA 00h00m36s)\rEncoding: task 1 of 1, 67.16 % (28.26 fps, avg 25.00 fps, ETA 00h00m36s)\rEncoding: task 1 of 1, 67.53 % (28.26 fps, avg 25.00 fps, ETA 00h00m36s)\rEncoding: task 1 of 1, 67.60 % (30.06 fps, avg 25.13 fps, ETA 00h00m35s)\rEncoding: task 1 of 1, 67.93 % (30.06 fps, avg 25.13 fps, ETA 00h00m35s)\rEncoding: task 1 of 1, 68.01 % (30.06 fps, avg 25.13 fps, ETA 00h00m35s)\rEncoding: task 1 of 1, 68.08 % (30.06 fps, avg 25.13 fps, ETA 00h00m35s)\rEncoding: task 1 of 1, 68.26 % (30.06 fps, avg 25.13 fps, ETA 00h00m35s)\rEncoding: task 1 of 1, 68.63 % (27.56 fps, avg 25.05 fps, ETA 00h00m34s)\rEncoding: task 1 of 1, 68.85 % (27.56 fps, avg 25.05 fps, ETA 00h00m34s)\rEncoding: task 1 of 1, 69.07 % (27.56 fps, avg 25.05 fps, ETA 00h00m34s)\rEncoding: task 1 of 1, 69.37 % (27.56 fps, avg 25.05 fps, ETA 00h00m34s)\rEncoding: task 1 of 1, 69.70 % (27.56 fps, avg 25.05 fps, ETA 00h00m34s)\rEncoding: task 1 of 1, 69.81 % (30.69 fps, avg 25.23 fps, ETA 00h00m32s)\rEncoding: task 1 of 1, 69.89 % (30.69 fps, avg 25.23 fps, ETA 00h00m32s)\rEncoding: task 1 of 1, 70.33 % (30.69 fps, avg 25.23 fps, ETA 00h00m32s)\rEncoding: task 1 of 1, 70.36 % (30.69 fps, avg 25.23 fps, ETA 00h00m32s)\rEncoding: task 1 of 1, 70.48 % (30.69 fps, avg 25.23 fps, ETA 00h00m32s)\rEncoding: task 1 of 1, 70.88 % (25.80 fps, avg 25.16 fps, ETA 00h00m31s)\rEncoding: task 1 of 1, 71.18 % (25.80 fps, avg 25.16 fps, ETA 00h00m31s)\rEncoding: task 1 of 1, 71.25 % (25.80 fps, avg 25.16 fps, ETA 00h00m31s)\rEncoding: task 1 of 1, 71.43 % (25.80 fps, avg 25.16 fps, ETA 00h00m31s)\rEncoding: task 1 of 1, 71.77 % (25.80 fps, avg 25.16 fps, ETA 00h00m31s)\rEncoding: task 1 of 1, 71.91 % (30.77 fps, avg 25.28 fps, ETA 00h00m30s)\rEncoding: task 1 of 1, 71.91 % (30.77 fps, avg 25.28 fps, ETA 00h00m30s)\rEncoding: task 1 of 1, 72.32 % (30.77 fps, avg 25.28 fps, ETA 00h00m30s)\rEncoding: task 1 of 1, 72.43 % (30.77 fps, avg 25.28 fps, ETA 00h00m30s)\rEncoding: task 1 of 1, 72.50 % (30.77 fps, avg 25.28 fps, ETA 00h00m30s)\rEncoding: task 1 of 1, 72.76 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 72.95 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 73.09 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 73.20 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 73.31 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 73.46 % (24.76 fps, avg 25.21 fps, ETA 00h00m29s)\rEncoding: task 1 of 1, 73.68 % (25.10 fps, avg 25.16 fps, ETA 00h00m28s)\rEncoding: task 1 of 1, 73.87 % (25.10 fps, avg 25.16 fps, ETA 00h00m28s)\rEncoding: task 1 of 1, 73.94 % (25.10 fps, avg 25.16 fps, ETA 00h00m28s)\rEncoding: task 1 of 1, 74.05 % (25.10 fps, avg 25.16 fps, ETA 00h00m28s)\rEncoding: task 1 of 1, 74.31 % (25.10 fps, avg 25.16 fps, ETA 00h00m28s)\rEncoding: task 1 of 1, 74.57 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 74.64 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 74.94 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 75.08 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 75.08 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 75.16 % (20.85 fps, avg 25.10 fps, ETA 00h00m27s)\rEncoding: task 1 of 1, 75.41 % (21.17 fps, avg 25.04 fps, ETA 00h00m26s)\rEncoding: task 1 of 1, 75.67 % (21.17 fps, avg 25.04 fps, ETA 00h00m26s)\rEncoding: task 1 of 1, 75.93 % (21.17 fps, avg 25.04 fps, ETA 00h00m26s)\rEncoding: task 1 of 1, 75.93 % (21.17 fps, avg 25.04 fps, ETA 00h00m26s)\rEncoding: task 1 of 1, 76.15 % (21.17 fps, avg 25.04 fps, ETA 00h00m26s)\rEncoding: task 1 of 1, 76.52 % (22.24 fps, avg 25.04 fps, ETA 00h00m25s)\rEncoding: task 1 of 1, 76.52 % (22.24 fps, avg 25.04 fps, ETA 00h00m25s)\rEncoding: task 1 of 1, 76.59 % (22.24 fps, avg 25.04 fps, ETA 00h00m25s)\rEncoding: task 1 of 1, 76.82 % (22.24 fps, avg 25.04 fps, ETA 00h00m25s)\rEncoding: task 1 of 1, 77.04 % (22.24 fps, avg 25.04 fps, ETA 00h00m25s)\rEncoding: task 1 of 1, 77.11 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 77.15 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 77.41 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 77.52 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 77.66 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 77.92 % (22.58 fps, avg 25.00 fps, ETA 00h00m24s)\rEncoding: task 1 of 1, 78.22 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.22 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.29 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.33 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.36 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.55 % (22.51 fps, avg 24.94 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 78.88 % (19.40 fps, avg 24.82 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 79.06 % (19.40 fps, avg 24.82 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 79.21 % (19.40 fps, avg 24.82 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 79.40 % (19.40 fps, avg 24.82 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 79.65 % (19.40 fps, avg 24.82 fps, ETA 00h00m23s)\rEncoding: task 1 of 1, 80.06 % (21.67 fps, avg 24.88 fps, ETA 00h00m22s)\rEncoding: task 1 of 1, 80.06 % (21.67 fps, avg 24.88 fps, ETA 00h00m22s)\rEncoding: task 1 of 1, 80.17 % (21.67 fps, avg 24.88 fps, ETA 00h00m22s)\rEncoding: task 1 of 1, 80.58 % (21.67 fps, avg 24.88 fps, ETA 00h00m22s)\rEncoding: task 1 of 1, 80.61 % (21.67 fps, avg 24.88 fps, ETA 00h00m22s)\rEncoding: task 1 of 1, 80.76 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 81.20 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 81.35 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 81.46 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 81.87 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 81.87 % (23.30 fps, avg 24.89 fps, ETA 00h00m21s)\rEncoding: task 1 of 1, 82.16 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 82.38 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 82.53 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 82.64 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 82.86 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 82.97 % (26.45 fps, avg 24.88 fps, ETA 00h00m19s)\rEncoding: task 1 of 1, 83.19 % (25.01 fps, avg 24.88 fps, ETA 00h00m18s)\rEncoding: task 1 of 1, 83.41 % (25.01 fps, avg 24.88 fps, ETA 00h00m18s)\rEncoding: task 1 of 1, 83.56 % (25.01 fps, avg 24.88 fps, ETA 00h00m18s)\rEncoding: task 1 of 1, 83.67 % (25.01 fps, avg 24.88 fps, ETA 00h00m18s)\rEncoding: task 1 of 1, 83.82 % (25.01 fps, avg 24.88 fps, ETA 00h00m18s)\rEncoding: task 1 of 1, 84.04 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 84.11 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 84.37 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 84.41 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 84.63 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 84.81 % (24.22 fps, avg 24.86 fps, ETA 00h00m17s)\rEncoding: task 1 of 1, 85.04 % (24.68 fps, avg 24.88 fps, ETA 00h00m16s)\rEncoding: task 1 of 1, 85.15 % (24.68 fps, avg 24.88 fps, ETA 00h00m16s)\rEncoding: task 1 of 1, 85.40 % (24.68 fps, avg 24.88 fps, ETA 00h00m16s)\rEncoding: task 1 of 1, 85.48 % (24.68 fps, avg 24.88 fps, ETA 00h00m16s)\rEncoding: task 1 of 1, 85.66 % (24.68 fps, avg 24.88 fps, ETA 00h00m16s)\rEncoding: task 1 of 1, 86.07 % (23.98 fps, avg 24.85 fps, ETA 00h00m15s)\rEncoding: task 1 of 1, 86.25 % (23.98 fps, avg 24.85 fps, ETA 00h00m15s)\rEncoding: task 1 of 1, 86.36 % (23.98 fps, avg 24.85 fps, ETA 00h00m15s)\rEncoding: task 1 of 1, 86.62 % (23.98 fps, avg 24.85 fps, ETA 00h00m15s)\rEncoding: task 1 of 1, 86.77 % (23.98 fps, avg 24.85 fps, ETA 00h00m15s)\rEncoding: task 1 of 1, 86.84 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 87.43 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 87.43 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 87.62 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 87.95 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 87.95 % (25.78 fps, avg 24.89 fps, ETA 00h00m14s)\rEncoding: task 1 of 1, 88.39 % (25.78 fps, avg 24.91 fps, ETA 00h00m13s)\rEncoding: task 1 of 1, 88.39 % (25.78 fps, avg 24.91 fps, ETA 00h00m13s)\rEncoding: task 1 of 1, 88.54 % (25.78 fps, avg 24.91 fps, ETA 00h00m13s)\rEncoding: task 1 of 1, 88.91 % (25.78 fps, avg 24.91 fps, ETA 00h00m13s)\rEncoding: task 1 of 1, 88.91 % (25.78 fps, avg 24.91 fps, ETA 00h00m13s)\rEncoding: task 1 of 1, 89.05 % (26.52 fps, avg 24.91 fps, ETA 00h00m12s)\rEncoding: task 1 of 1, 89.35 % (26.52 fps, avg 24.91 fps, ETA 00h00m12s)\rEncoding: task 1 of 1, 89.64 % (26.52 fps, avg 24.91 fps, ETA 00h00m12s)\rEncoding: task 1 of 1, 90.01 % (26.52 fps, avg 24.91 fps, ETA 00h00m12s)\rEncoding: task 1 of 1, 90.01 % (26.52 fps, avg 24.91 fps, ETA 00h00m12s)\rEncoding: task 1 of 1, 90.60 % (26.71 fps, avg 24.95 fps, ETA 00h00m10s)\rEncoding: task 1 of 1, 90.60 % (26.71 fps, avg 24.95 fps, ETA 00h00m10s)\rEncoding: task 1 of 1, 90.67 % (26.71 fps, avg 24.95 fps, ETA 00h00m10s)\rEncoding: task 1 of 1, 90.82 % (26.71 fps, avg 24.95 fps, ETA 00h00m10s)\rEncoding: task 1 of 1, 91.19 % (26.71 fps, avg 24.95 fps, ETA 00h00m10s)\rEncoding: task 1 of 1, 91.37 % (29.52 fps, avg 25.05 fps, ETA 00h00m09s)\rEncoding: task 1 of 1, 91.67 % (29.52 fps, avg 25.05 fps, ETA 00h00m09s)\rEncoding: task 1 of 1, 91.96 % (29.52 fps, avg 25.05 fps, ETA 00h00m09s)\rEncoding: task 1 of 1, 92.15 % (29.52 fps, avg 25.05 fps, ETA 00h00m09s)\rEncoding: task 1 of 1, 92.37 % (29.52 fps, avg 25.05 fps, ETA 00h00m09s)\rEncoding: task 1 of 1, 92.66 % (30.14 fps, avg 25.07 fps, ETA 00h00m08s)\rEncoding: task 1 of 1, 92.89 % (30.14 fps, avg 25.07 fps, ETA 00h00m08s)\rEncoding: task 1 of 1, 93.11 % (30.14 fps, avg 25.07 fps, ETA 00h00m08s)\rEncoding: task 1 of 1, 93.51 % (30.14 fps, avg 25.07 fps, ETA 00h00m08s)\rEncoding: task 1 of 1, 93.81 % (30.14 fps, avg 25.07 fps, ETA 00h00m08s)\rEncoding: task 1 of 1, 94.32 % (33.24 fps, avg 25.20 fps, ETA 00h00m06s)\rEncoding: task 1 of 1, 94.40 % (33.24 fps, avg 25.20 fps, ETA 00h00m06s)\rEncoding: task 1 of 1, 94.73 % (33.24 fps, avg 25.20 fps, ETA 00h00m06s)\rEncoding: task 1 of 1, 94.99 % (33.24 fps, avg 25.20 fps, ETA 00h00m06s)\rEncoding: task 1 of 1, 95.32 % (33.24 fps, avg 25.20 fps, ETA 00h00m06s)\rEncoding: task 1 of 1, 95.65 % (36.81 fps, avg 25.41 fps, ETA 00h00m04s)\rEncoding: task 1 of 1, 95.83 % (36.81 fps, avg 25.41 fps, ETA 00h00m04s)\rEncoding: task 1 of 1, 96.06 % (36.81 fps, avg 25.41 fps, ETA 00h00m04s)\rEncoding: task 1 of 1, 96.35 % (36.81 fps, avg 25.41 fps, ETA 00h00m04s)\rEncoding: task 1 of 1, 96.61 % (36.81 fps, avg 25.41 fps, ETA 00h00m04s)\rEncoding: task 1 of 1, 96.87 % (37.70 fps, avg 25.45 fps, ETA 00h00m03s)\rEncoding: task 1 of 1, 97.16 % (37.70 fps, avg 25.45 fps, ETA 00h00m03s)\rEncoding: task 1 of 1, 97.38 % (37.70 fps, avg 25.45 fps, ETA 00h00m03s)\rEncoding: task 1 of 1, 97.75 % (37.70 fps, avg 25.45 fps, ETA 00h00m03s)\rEncoding: task 1 of 1, 98.05 % (37.70 fps, avg 25.45 fps, ETA 00h00m03s)\rEncoding: task 1 of 1, 98.27 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)\rEncoding: task 1 of 1, 98.49 % (37.90 fps, avg 25.58 fps, ETA 00h00m02s)
+       ",
+ :err  "[15:10:04] hb_init: starting libhb thread
+       [15:10:04] thread 70000f20e000 started (\"libhb\")
+       HandBrake 1.2.2 (2019022300) - Darwin x86_64 - https://handbrake.fr
+       12 CPUs detected
+       Opening /Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv...
+       [15:10:04] CPU: Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz
+       [15:10:04]  - Intel microarchitecture Kaby Lake
+       [15:10:04]  - logical processor count: 12
+       [15:10:04] hb_scan: path=/Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv, title_index=1
+       udfread ERROR: ECMA 167 Volume Recognition failed
+       disc.c:323: failed opening UDF image /Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv
+       disc.c:424: error opening file BDMV/index.bdmv
+       disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+       [15:10:04] bd: not a bd - trying as a stream/file instead
+       libdvdnav: Using dvdnav version 6.0.0
+       libdvdread: Encrypted DVD support unavailable.
+       libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.IFO failed
+       libdvdread:DVDOpenFileUDF:UDFFindFile /VIDEO_TS/VIDEO_TS.BUP failed
+       libdvdread: Can't open file VIDEO_TS.IFO.
+       libdvdnav: vm: failed to read VIDEO_TS.IFO
+       [15:10:04] dvd: not a dvd - trying as a stream/file instead
+       Input #0, matroska,webm, from '/Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv':
+         Metadata:
+           creation_time   : 2019-12-01T08:31:47.000000Z
+           ENCODER         : Lavf58.20.100
+         Duration: 00:01:53.16, start: 0.000000, bitrate: 4659 kb/s
+           Chapter #0:0: start 0.000000, end 112.154000
+           Metadata:
+             title           : Chapter 1
+           Stream #0:0: Video: hevc (Main), yuv420p(tv, bt709), 1412x1036 [SAR 1:1 DAR 353:259], 23.98 fps, 23.98 tbr, 1k tbn, 23.98 tbc (default)
+           Metadata:
+             DURATION        : 00:01:53.155000000
+           Stream #0:1(eng): Audio: flac, 48000 Hz, stereo, s32 (24 bit) (default)
+           Metadata:
+             title           : Stereo
+             DURATION        : 00:01:53.088000000
+           Stream #0:2(eng): Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+           Metadata:
+             title           : Stereo
+             DURATION        : 00:01:53.088000000
+           Stream #0:3(eng): Audio: flac, 48000 Hz, stereo, s32 (24 bit)
+           Metadata:
+             title           : Stereo
+             DURATION        : 00:01:53.088000000
+       [15:10:04] scan: decoding previews for title 1
+       [15:10:04] scan: audio 0x1: flac, rate=48000Hz, bitrate=1 English (FLAC) (2.0 ch)
+       [15:10:04] scan: audio 0x2: flac, rate=48000Hz, bitrate=1 English (FLAC) (2.0 ch)
+       [15:10:04] scan: audio 0x3: flac, rate=48000Hz, bitrate=1 English (FLAC) (2.0 ch)
+       \rScanning title 1 of 1, preview 1, 10.00 %\rScanning title 1 of 1, preview 4, 40.00 %\rScanning title 1 of 1, preview 7, 70.00 %\rScanning title 1 of 1, preview 9, 90.00 %[15:10:05] scan: 10 previews, 1412x1036, 23.976 fps, autocrop = 0/0/0/0, aspect 4:3, PAR 1:1
+       [15:10:05] libhb: scan thread found 1 valid title(s)
+       + Using preset: CLI Default
+       + title 1:
+         + stream: /Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv
+         + duration: 00:01:53
+         + size: 1412x1036, pixel aspect: 1/1, display aspect: 1.36, 23.976 fps
+         + autocrop: 0/0/0/0
+         + chapters:
+           + 1: cells 0->0, 0 blocks, duration 00:01:53
+         + audio tracks:
+           + 1, English (FLAC) (2.0 ch) (iso639-2: eng)
+           + 2, English (FLAC) (2.0 ch) (iso639-2: eng)
+           + 3, English (FLAC) (2.0 ch) (iso639-2: eng)
+         + subtitle tracks:
+       [15:10:05] 1 job(s) to process
+       [15:10:05] json job:
+       {
+           \"Audio\": {
+               \"AudioList\": [
+                   {
+                       \"Bitrate\": 128,
+                       \"CompressionLevel\": -1.0,
+                       \"DRC\": 0.0,
+                       \"DitherMethod\": \"auto\",
+                       \"Encoder\": 2097152,
+                       \"Gain\": 0.0,
+                       \"Mixdown\": -1,
+                       \"NormalizeMixLevel\": false,
+                       \"PresetEncoder\": \"ca_aac\",
+                       \"Quality\": -3.0,
+                       \"Samplerate\": 0,
+                       \"Track\": 0
+                   },
+                   {
+                       \"Bitrate\": 128,
+                       \"CompressionLevel\": -1.0,
+                       \"DRC\": 0.0,
+                       \"DitherMethod\": \"auto\",
+                       \"Encoder\": 2097152,
+                       \"Gain\": 0.0,
+                       \"Mixdown\": -1,
+                       \"NormalizeMixLevel\": false,
+                       \"PresetEncoder\": \"ca_aac\",
+                       \"Quality\": -3.0,
+                       \"Samplerate\": 0,
+                       \"Track\": 1
+                   },
+                   {
+                       \"Bitrate\": 128,
+                       \"CompressionLevel\": -1.0,
+                       \"DRC\": 0.0,
+                       \"DitherMethod\": \"auto\",
+                       \"Encoder\": 2097152,
+                       \"Gain\": 0.0,
+                       \"Mixdown\": -1,
+                       \"NormalizeMixLevel\": false,
+                       \"PresetEncoder\": \"ca_aac\",
+                       \"Quality\": -3.0,
+                       \"Samplerate\": 0,
+                       \"Track\": 2
+                   }
+               ],
+               \"CopyMask\": [
+                   \"copy:aac\",
+                   \"copy:ac3\",
+                   \"copy:eac3\",
+                   \"copy:dtshd\",
+                   \"copy:dts\",
+                   \"copy:mp3\",
+                   \"copy:truehd\",
+                   \"copy:flac\"
+               ],
+               \"FallbackEncoder\": \"ca_aac\"
+           },
+           \"Destination\": {
+               \"AlignAVStart\": false,
+               \"ChapterList\": [
+                   {
+                       \"Name\": \"Chapter 1\"
+                   }
+               ],
+               \"ChapterMarkers\": false,
+               \"File\": \"/Users/tube/Desktop/wes.mkv\",
+               \"InlineParameterSets\": false,
+               \"Mp4Options\": {
+                   \"IpodAtom\": false,
+                   \"Mp4Optimize\": false
+               },
+               \"Mux\": \"mkv\"
+           },
+           \"Filters\": {
+               \"FilterList\": [
+                   {
+                       \"ID\": 3,
+                       \"Settings\": {
+                           \"block-height\": \"16\",
+                           \"block-thresh\": \"40\",
+                           \"block-width\": \"16\",
+                           \"filter-mode\": \"2\",
+                           \"mode\": \"3\",
+                           \"motion-thresh\": \"1\",
+                           \"spatial-metric\": \"2\",
+                           \"spatial-thresh\": \"1\"
+                       }
+                   },
+                   {
+                       \"ID\": 4,
+                       \"Settings\": {
+                           \"mode\": \"7\"
+                       }
+                   },
+                   {
+                       \"ID\": 6,
+                       \"Settings\": {
+                           \"mode\": 2,
+                           \"rate\": \"27000000/900000\"
+                       }
+                   },
+                   {
+                       \"ID\": 11,
+                       \"Settings\": {
+                           \"crop-bottom\": 0,
+                           \"crop-left\": 0,
+                           \"crop-right\": 0,
+                           \"crop-top\": 0,
+                           \"height\": 1036,
+                           \"width\": 1412
+                       }
+                   }
+               ]
+           },
+           \"Metadata\": {},
+           \"PAR\": {
+               \"Den\": 1,
+               \"Num\": 1
+           },
+           \"SequenceID\": 0,
+           \"Source\": {
+               \"Angle\": 0,
+               \"Path\": \"/Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv\",
+               \"Range\": {
+                   \"End\": 1,
+                   \"Start\": 1,
+                   \"Type\": \"chapter\"
+               },
+               \"Title\": 1
+           },
+           \"Subtitle\": {
+               \"Search\": {
+                   \"Burn\": true,
+                   \"Default\": false,
+                   \"Enable\": false,
+                   \"Forced\": true
+               },
+               \"SubtitleList\": []
+           },
+           \"Video\": {
+               \"ColorMatrix\": 1,
+               \"ColorPrimaries\": 1,
+               \"ColorTransfer\": 1,
+               \"Encoder\": \"x265\",
+               \"Preset\": \"fast\",
+               \"QSV\": {
+                   \"AsyncDepth\": 4,
+                   \"Decode\": false
+               },
+               \"Quality\": 1.0,
+               \"Turbo\": false,
+               \"TwoPass\": false
+           }
+       }
+       [15:10:05] starting job
+       [15:10:05] decomb filter thread started for segment 0
+       [15:10:05] decomb filter thread started for segment 1
+       [15:10:05] decomb filter thread started for segment 3
+       [15:10:05] decomb filter thread started for segment 2
+       [15:10:05] decomb filter thread started for segment 4
+       [15:10:05] decomb filter thread started for segment 5
+       [15:10:05] decomb filter thread started for segment 6
+       [15:10:05] decomb filter thread started for segment 7
+       [15:10:05] decomb filter thread started for segment 8
+       [15:10:05] decomb filter thread started for segment 9
+       [15:10:05] decomb filter thread started for segment 10
+       [15:10:05] decomb filter thread started for segment 11
+       [15:10:05] decomb check thread started for segment 0
+       [15:10:05] decomb check thread started for segment 1
+       [15:10:05] decomb check thread started for segment 2
+       [15:10:05] decomb check thread started for segment 4
+       [15:10:05] decomb check thread started for segment 3
+       [15:10:05] decomb check thread started for segment 5
+       [15:10:05] decomb check thread started for segment 6
+       [15:10:05] decomb check thread started for segment 7
+       [15:10:05] decomb check thread started for segment 9
+       [15:10:05] decomb check thread started for segment 8
+       [15:10:05] decomb check thread started for segment 10
+       [15:10:05] decomb check thread started for segment 11
+       [15:10:05] mask filter thread started for segment 1
+       [15:10:05] mask filter thread started for segment 0
+       [15:10:05] mask filter thread started for segment 2
+       [15:10:05] mask filter thread started for segment 3
+       [15:10:05] mask filter thread started for segment 4
+       [15:10:05] mask filter thread started for segment 5
+       [15:10:05] mask filter thread started for segment 6
+       [15:10:05] mask filter thread started for segment 7
+       [15:10:05] mask filter thread started for segment 8
+       [15:10:05] mask filter thread started for segment 10
+       [15:10:05] mask filter thread started for segment 9
+       [15:10:05] mask filter thread started for segment 11
+       [15:10:05] mask erode thread started for segment 0
+       [15:10:05] mask erode thread started for segment 1
+       [15:10:05] mask erode thread started for segment 2
+       [15:10:05] mask erode thread started for segment 3
+       [15:10:05] mask erode thread started for segment 4
+       [15:10:05] mask erode thread started for segment 5
+       [15:10:05] mask erode thread started for segment 6
+       [15:10:05] mask erode thread started for segment 7
+       [15:10:05] mask erode thread started for segment 8
+       [15:10:05] mask erode thread started for segment 10
+       [15:10:05] mask erode thread started for segment 9
+       [15:10:05] mask erode thread started for segment 11
+       [15:10:05] mask dilate thread started for segment 0
+       [15:10:05] mask dilate thread started for segment 1
+       [15:10:05] mask dilate thread started for segment 3
+       [15:10:05] mask dilate thread started for segment 2
+       [15:10:05] mask dilate thread started for segment 4
+       [15:10:05] mask dilate thread started for segment 5
+       [15:10:05] mask dilate thread started for segment 6
+       [15:10:05] mask dilate thread started for segment 7
+       [15:10:05] mask dilate thread started for segment 8
+       [15:10:05] mask dilate thread started for segment 9
+       [15:10:05] mask dilate thread started for segment 10
+       [15:10:05] mask dilate thread started for segment 11
+       [15:10:05] yadif thread started for segment 0
+       [15:10:05] yadif thread started for segment 1
+       [15:10:05] yadif thread started for segment 2
+       [15:10:05] yadif thread started for segment 3
+       [15:10:05] yadif thread started for segment 4
+       [15:10:05] yadif thread started for segment 5
+       [15:10:05] yadif thread started for segment 6
+       [15:10:05] yadif thread started for segment 7
+       [15:10:05] yadif thread started for segment 8
+       [15:10:05] yadif thread started for segment 9
+       [15:10:05] yadif thread started for segment 10
+       [15:10:05] yadif thread started for segment 11
+       [15:10:05] work: mixdown not specified, track 1 setting mixdown Stereo
+       [15:10:05] work: compression level not specified, track 1 setting compression level 5.00
+       [15:10:05] work: mixdown not specified, track 2 setting mixdown Stereo
+       [15:10:05] work: compression level not specified, track 2 setting compression level 5.00
+       [15:10:05] work: mixdown not specified, track 3 setting mixdown Stereo
+       [15:10:05] work: compression level not specified, track 3 setting compression level 5.00
+       [15:10:05] job configuration:
+       [15:10:05]  * source
+       [15:10:05]    + /Volumes/Drobo/Library/Movies/The Adventures of André and Wally B. (1984).mkv
+       [15:10:05]    + title 1, chapter(s) 1 to 1
+       [15:10:05]    + container: matroska,webm
+       [15:10:05]    + data rate: 4659 kbps
+       [15:10:05]  * destination
+       [15:10:05]    + /Users/tube/Desktop/wes.mkv
+       [15:10:05]    + container: Matroska (libavformat)
+       [15:10:05]  * video track
+       [15:10:05]    + decoder: hevc
+       [15:10:05]    + filters
+       [15:10:05]      + Comb Detect (mode=3:spatial-metric=2:motion-thresh=1:spatial-thresh=1:filter-mode=2:block-thresh=40:block-width=16:block-height=16)
+       [15:10:05]      + Decomb (mode=39)
+       [15:10:05]      + Framerate Shaper (mode=2:rate=27000000/900000)
+       [15:10:05]        + frame rate: 23.976 fps -> peak rate limited to 30.000 fps
+       [15:10:05]      + Crop and Scale (width=1412:height=1036:crop-top=0:crop-bottom=0:crop-left=0:crop-right=0)
+       [15:10:05]        + source: 1412 * 1036, crop (0/0/0/0): 1412 * 1036, scale: 1412 * 1036
+       [15:10:05]    + Output geometry
+       [15:10:05]      + storage dimensions: 1412 x 1036
+       [15:10:05]      + pixel aspect ratio: 1 : 1
+       [15:10:05]      + display dimensions: 1412 x 1036
+       [15:10:05]    + encoder: H.265 (libx265)
+       [15:10:05]      + preset:  fast
+       [15:10:05]      + quality: 1.00 (RF)
+       [15:10:05]      + color profile: 1-1-1
+       [15:10:05]  * audio track 1
+       [15:10:05]    + decoder: English (FLAC) (2.0 ch) (track 1, id 0x1)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]    + mixdown: Stereo
+       [15:10:05]    + dither: triangular
+       [15:10:05]    + encoder: FLAC 24-bit (libavcodec)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]      + compression level: 5.00
+       [15:10:05]  * audio track 2
+       [15:10:05]    + decoder: English (FLAC) (2.0 ch) (track 2, id 0x2)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]    + mixdown: Stereo
+       [15:10:05]    + dither: triangular
+       [15:10:05]    + encoder: FLAC 24-bit (libavcodec)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]      + compression level: 5.00
+       [15:10:05]  * audio track 3
+       [15:10:05]    + decoder: English (FLAC) (2.0 ch) (track 3, id 0x3)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]    + mixdown: Stereo
+       [15:10:05]    + dither: triangular
+       [15:10:05]    + encoder: FLAC 24-bit (libavcodec)
+       [15:10:05]      + samplerate: 48000 Hz
+       [15:10:05]      + compression level: 5.00
+       [15:10:05] sync: expecting 2713 video frames
+       x265 [info]: HEVC encoder version 2.9
+       x265 [info]: build info [Mac OS X][clang 10.0.0][64 bit] 8bit+10bit+12bit
+       x265 [info]: using cpu capabilities: MMX2 SSE2Fast LZCNT SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+       x265 [info]: Main profile, Level-4 (Main tier)
+       x265 [info]: Thread pool created using 12 threads
+       x265 [info]: Slices                              : 1
+       x265 [info]: frame threads / pool features       : 3 / wpp(17 rows)
+       x265 [info]: Coding QT: max CU size, min CU size : 64 / 8
+       x265 [info]: Residual QT: max TU size, max depth : 32 / 1 inter / 1 intra
+       x265 [info]: ME / range / subpel / merge         : hex / 57 / 2 / 2
+       x265 [info]: Keyframe min / max / scenecut / bias: 24 / 240 / 40 / 5.00
+       x265 [info]: Lookahead / bframes / badapt        : 15 / 4 / 0
+       x265 [info]: b-pyramid / weightp / weightb       : 1 / 1 / 0
+       x265 [info]: References / ref-limit  cu / depth  : 3 / on / on
+       x265 [info]: AQ: mode / str / qg-size / cu-tree  : 1 / 1.0 / 32 / 1
+       x265 [info]: Rate Control / qCompress            : CRF-1.0 / 0.60
+       x265 [info]: tools: rd=2 psy-rd=2.00 rskip signhide tmvp fast-intra
+       x265 [info]: tools: strong-intra-smoothing lslices=6 deblock sao
+       [15:10:05] sync: first pts video is 0
+       [15:10:05] sync: \"Chapter 1\" (1) at frame 1 time 0
+       [15:10:05] sync: first pts audio 0x1 is 0
+       [15:10:05] sync: first pts audio 0x2 is 0
+       [15:10:05] sync: first pts audio 0x3 is 0
+       [15:11:49] reader: done. 1 scr changes
+       [15:11:51] work: average encoding speed for job is 25.575226 fps
+       [15:11:51] comb detect: heavy 1 | light 32 | uncombed 2680 | total 2713
+       [15:11:51] decomb: deinterlaced 1 | blended 32 | unfiltered 2680 | total 2713
+       [15:11:51] vfr: 2713 frames output, 0 dropped and 0 duped for CFR/PFR
+       [15:11:51] vfr: lost time: 0 (0 frames)
+       [15:11:51] vfr: gained time: 0 (0 frames) (0 not accounted for)
+       [15:11:51] flac-decoder done: 1178 frames, 0 decoder errors
+       [15:11:51] flac-decoder done: 1178 frames, 0 decoder errors
+       [15:11:51] flac-decoder done: 1178 frames, 0 decoder errors
+       [15:11:51] hevc-decoder done: 2713 frames, 0 decoder errors
+       [15:11:51] sync: got 2713 frames, 2713 expected
+       [15:11:51] sync: framerate min 23.981 fps, max 23.981 fps, avg 23.976 fps
+       x265 [info]: frame I:     25, Avg QP:4.18  kb/s: 65314.07
+       x265 [info]: frame P:    539, Avg QP:1.39  kb/s: 67865.46
+       x265 [info]: frame B:   2149, Avg QP:7.04  kb/s: 10277.73
+       x265 [info]: Weighted P-Frames: Y:15.4% UV:8.9%
+       x265 [info]: consecutive B-frames: 4.3% 0.2% 0.4% 0.7% 94.5%
+
+       encoded 2713 frames in 105.88s (25.62 fps), 22226.02 kb/s, Avg QP:5.89
+       [15:11:51] mux: track 0, 2713 frames, 314383108 bytes, 22218.59 kbps, fifo 256
+       [15:11:51] mux: track 1, 1179 frames, 19523318 bytes, 1379.78 kbps, fifo 128
+       [15:11:51] mux: track 2, 1179 frames, 18810271 bytes, 1329.39 kbps, fifo 128
+       [15:11:51] mux: track 3, 1179 frames, 14816040 bytes, 1047.10 kbps, fifo 128
+       [15:11:51] libhb: work result = 0
+
+       Encode done!
+       HandBrake has exited.
+       "}

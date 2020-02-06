@@ -1,0 +1,28 @@
+{:exit 2,
+ :out  "\n",
+ :err  "[15:04:59] hb_init: starting libhb thread
+       [15:04:59] thread 700004699000 started (\"libhb\")
+       HandBrake 1.2.2 (2019022300) - Darwin x86_64 - https://handbrake.fr
+       12 CPUs detected
+       Opening /Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx...
+       [15:04:59] CPU: Intel(R) Core(TM) i7-8700B CPU @ 3.20GHz
+       [15:04:59]  - Intel microarchitecture Kaby Lake
+       [15:04:59]  - logical processor count: 12
+       [15:04:59] hb_scan: path=/Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx, title_index=1
+       disc.c:323: failed opening UDF image /Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx
+       disc.c:424: error opening file BDMV/index.bdmv
+       disc.c:424: error opening file BDMV/BACKUP/index.bdmv
+       [15:04:59] bd: not a bd - trying as a stream/file instead
+       libdvdnav: Using dvdnav version 6.0.0
+       libdvdread: Encrypted DVD support unavailable.
+       libdvdread: Can't stat /Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx
+       No such file or directory
+       libdvdread: Could not open /Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx
+       libdvdnav: vm: failed to open/read the DVD
+       [15:04:59] dvd: not a dvd - trying as a stream/file instead
+       [15:04:59] hb_stream_open: open /Volumes/Drobo/FACTORY/4-Completed/Robyn Hitchcock.mkvx failed
+       [15:04:59] scan: unrecognized file type
+       [15:04:59] libhb: scan thread found 0 valid title(s)
+       No title found.
+       HandBrake has exited.
+       "}

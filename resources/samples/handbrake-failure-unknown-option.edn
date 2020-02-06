@@ -1,0 +1,7 @@
+{:exit 0,
+ :out  "\n",
+ :err  "[15:14:49] hb_init: starting libhb thread
+       [15:14:49] thread 70000c43a000 started (\"libhb\")
+       unknown option (--xmixdown)
+       HandBrake has exited.
+       "}

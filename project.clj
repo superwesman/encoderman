@@ -7,4 +7,9 @@
 
                  [me.raynes/fs "1.4.6"]
 
-                 [org.clojure/clojure "1.10.0"]])
+                 [org.clojure/clojure "1.10.0"]]
+
+  :profiles {:dev {:plugins  [[lein-githooks "0.1.0"]]
+                   :githooks {:auto-install true
+                              :pre-push     ["lein test"]
+                              }}})
